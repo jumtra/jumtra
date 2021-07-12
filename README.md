@@ -72,4 +72,3 @@ Python                   9 repos             ███████████�
 
  Last Updated on 11/07/2021
 <!--END_SECTION:waka-->
-[![Metrics](https://github.com/jumtra/jumtra/actions/workflows/main.yml/badge.svg)]
