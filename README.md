@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-271-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-273-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 31 Contributions in the Year 2021
  > 
-> 📦 307.1 kB Used in Github's Storage 
+> 📦 307.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -89,6 +89,7 @@ Python                   0 secs              ░░░░░░░░░░░�
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
+GNP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 RGNP-GA                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
@@ -109,6 +110,6 @@ Python                   9 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2021
+ Last Updated on 14/07/2021
 <!--END_SECTION:waka-->
  </details>
