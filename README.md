@@ -46,7 +46,7 @@
 
 > 🏆 31 Contributions in the Year 2021
  > 
-> 📦 307.4 kB Used in Github's Storage 
+> 📦 307.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,17 +83,16 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GNP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
-RGNP-GA                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+GNP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
@@ -110,6 +109,6 @@ Python                   9 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/07/2021
+ Last Updated on 17/07/2021
 <!--END_SECTION:waka-->
  </details>
