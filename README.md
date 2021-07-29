@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 31 Contributions in the Year 2021
  > 
-> 📦 342.2 kB Used in Github's Storage 
+> 📦 342.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -84,8 +84,7 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 C++                      6 hrs 3 mins        █████████████████████████   99.99% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
 VS Code                  6 hrs 3 mins        █████████████████████████   100.0%
@@ -112,6 +111,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/07/2021
+ Last Updated on 29/07/2021
 <!--END_SECTION:waka-->
  </details>
