@@ -46,7 +46,7 @@
 
 > 🏆 31 Contributions in the Year 2021
  > 
-> 📦 342.8 kB Used in Github's Storage 
+> 📦 342.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,16 +83,16 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C++                      2 hrs 22 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ClusteringForTsp         2 hrs 22 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -110,6 +110,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/08/2021
+ Last Updated on 03/08/2021
 <!--END_SECTION:waka-->
  </details>
