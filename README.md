@@ -42,11 +42,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 31 Contributions in the Year 2021
  > 
-> 📦 347.9 kB Used in Github's Storage 
+> 📦 348.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,16 +83,16 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   6 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+RGNP-GA                  6 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -110,6 +110,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
  </details>
