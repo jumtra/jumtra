@@ -46,7 +46,7 @@
 
 > 🏆 31 Contributions in the Year 2021
  > 
-> 📦 353.5 kB Used in GitHub's Storage 
+> 📦 353.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -112,6 +112,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/11/2021
+ Last Updated on 13/11/2021
 <!--END_SECTION:waka-->
  </details>
