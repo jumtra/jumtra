@@ -46,7 +46,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 350.0 kB Used in GitHub's Storage 
+> 📦 350.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -110,6 +110,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
  </details>
