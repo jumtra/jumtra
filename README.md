@@ -46,13 +46,13 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 352.2 kB Used in GitHub's Storage 
+> 📦 364.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 3 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
+> 🔑 10 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -99,8 +99,8 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ██████████████████████░░░   90.0% 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+Python                   10 repos            ██████████████████████░░░   90.91% 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
@@ -110,6 +110,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2022 19:34:48 UTC
+ Last Updated on 30/01/2022 19:34:44 UTC
 <!--END_SECTION:waka-->
  </details>
