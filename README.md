@@ -46,7 +46,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 364.0 kB Used in GitHub's Storage 
+> 📦 364.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,16 +83,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 hrs 3 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 3 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WRGNP-GA                 4 hrs 57 mins       ████████████████████████░   97.97% 
+RGNP-GA                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -110,6 +111,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2022 19:34:44 UTC
+ Last Updated on 01/02/2022 19:34:56 UTC
 <!--END_SECTION:waka-->
  </details>
