@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 368.4 kB Used in GitHub's Storage 
+> 📦 369.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -110,6 +110,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/03/2022 19:35:29 UTC
+ Last Updated on 24/03/2022 19:35:52 UTC
 <!--END_SECTION:waka-->
  </details>
