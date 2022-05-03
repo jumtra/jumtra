@@ -46,7 +46,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 360.6 kB Used in GitHub's Storage 
+> 📦 361.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,21 +83,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C++                      12 mins             ███████████████████░░░░░░   76.71% 
-JSON                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-docker-atcoder           14 mins             ██████████████████████░░░   91.47% 
-ClusteringForTsp         1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.53%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -115,6 +110,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/04/2022 19:35:19 UTC
+ Last Updated on 03/05/2022 19:35:20 UTC
 <!--END_SECTION:waka-->
  </details>
