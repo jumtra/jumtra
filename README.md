@@ -40,7 +40,7 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,7 +48,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 360.0 kB Used in GitHub's Storage 
+> 📦 360.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -85,16 +85,19 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   23 mins             ██████████████████████░░░   90.24% 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Fuzzy-Investment-Counselo20 mins             ███████████████████░░░░░░   79.46% 
+Deep-Reinforcement-Tradin5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.54%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  25 mins             █████████████████████████   100.0%
 
 ```
 
@@ -112,6 +115,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 19:35:54 UTC
+ Last Updated on 12/05/2022 19:35:14 UTC
 <!--END_SECTION:waka-->
  </details>
