@@ -48,7 +48,7 @@
 
 > 🏆 2 Contributions in the Year 2022
  > 
-> 📦 360.0 kB Used in GitHub's Storage 
+> 📦 360.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -85,22 +85,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   40 mins             ██████████████████████░░░   87.75% 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-signate-fundamentals-chal22 mins             ████████████░░░░░░░░░░░░░   49.81% 
-test                     18 mins             █████████░░░░░░░░░░░░░░░░   39.33% 
-Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.86%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -118,6 +112,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/05/2022 19:35:22 UTC
+ Last Updated on 27/05/2022 19:35:23 UTC
 <!--END_SECTION:waka-->
  </details>
