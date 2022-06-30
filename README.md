@@ -42,13 +42,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 2 Contributions in the Year 2022
  > 
-> 📦 359.8 kB Used in GitHub's Storage 
+> 📦 359.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -112,6 +112,6 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/06/2022 19:35:39 UTC
+ Last Updated on 30/06/2022 19:34:56 UTC
 <!--END_SECTION:waka-->
  </details>
