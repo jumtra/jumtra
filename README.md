@@ -42,25 +42,67 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 2 Contributions in the Year 2022
  > 
-> 📦 362.0 kB Used in GitHub's Storage 
+> 📦 383.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 13 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌃 Evening    1 commits      █████████████████████████   100.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     1 commits      █████████████████████████   100.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████████████████████░░   92.86% 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+Python                   15 repos            ███████████████████████░░   93.75% 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
 
@@ -70,6 +112,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 19:38:36 UTC
+ Last Updated on 05/11/2022 19:35:31 UTC
 <!--END_SECTION:waka-->
  </details>
