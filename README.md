@@ -40,7 +40,7 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,7 +48,7 @@
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 414.6 kB Used in GitHub's Storage 
+> 📦 414.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -119,6 +119,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 19:34:55 UTC
+ Last Updated on 14/01/2023 19:34:23 UTC
 <!--END_SECTION:waka-->
  </details>
