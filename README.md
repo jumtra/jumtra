@@ -48,7 +48,7 @@
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 411.6 kB Used in GitHub's Storage 
+> 📦 411.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -116,6 +116,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/01/2023 19:35:14 UTC
+ Last Updated on 22/01/2023 19:35:06 UTC
 <!--END_SECTION:waka-->
  </details>
