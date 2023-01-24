@@ -40,7 +40,7 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,7 +48,7 @@
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 411.9 kB Used in GitHub's Storage 
+> 📦 412.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -85,18 +85,18 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Text                     5 hrs 2 mins        █████████████████████████   99.98% 
+Text                     5 hrs 46 mins       █████████████████████████   99.98% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  5 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  5 hrs 46 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-memo                     5 hrs 2 mins        █████████████████████████   100.0%
+memo                     5 hrs 46 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 2 mins        █████████████████████████   100.0%
+Windows                  5 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
@@ -116,6 +116,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2023 19:35:31 UTC
+ Last Updated on 24/01/2023 19:35:07 UTC
 <!--END_SECTION:waka-->
  </details>
