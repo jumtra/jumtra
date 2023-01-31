@@ -48,13 +48,13 @@
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 413.6 kB Used in GitHub's Storage 
+> 📦 413.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 16 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -85,16 +85,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Text                     50 mins             █████████████████████████   100.0%
+Text                     7 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.0%
+VS Code                  7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-memo                     50 mins             █████████████████████████   100.0%
+memo                     7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.0%
+Windows                  7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -114,6 +114,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2023 19:34:38 UTC
+ Last Updated on 31/01/2023 19:34:39 UTC
 <!--END_SECTION:waka-->
  </details>
