@@ -48,7 +48,7 @@
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 413.7 kB Used in GitHub's Storage 
+> 📦 413.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -85,16 +85,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Text                     7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-memo                     7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -114,6 +114,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jumtra/jumtra/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2023 19:34:39 UTC
+ Last Updated on 01/02/2023 19:35:10 UTC
 <!--END_SECTION:waka-->
  </details>
