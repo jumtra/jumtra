@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 392.5 kB Used in GitHub's Storage 
+> 📦 392.6 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2023
  > 
@@ -83,16 +83,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-SSH Config               15 mins             █████████████████████████   100.00 % 
+Markdown                 34 mins             ████████████████░░░░░░░░░   65.42 % 
+SSH Config               18 mins             █████████░░░░░░░░░░░░░░░░   34.30 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          15 mins             █████████████████████████   100.00 % 
+memo                     34 mins             ████████████████░░░░░░░░░   65.70 % 
+Unknown Project          18 mins             █████████░░░░░░░░░░░░░░░░   34.30 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,6 +114,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2023 19:33:31 UTC
+ Last Updated on 24/03/2023 19:33:28 UTC
 <!--END_SECTION:waka-->
  </details>
