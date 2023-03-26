@@ -46,7 +46,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 392.9 kB Used in GitHub's Storage 
+> 📦 393.1 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2023
  > 
@@ -114,6 +114,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2023 19:33:24 UTC
+ Last Updated on 26/03/2023 19:33:11 UTC
 <!--END_SECTION:waka-->
  </details>
