@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 393.0 kB Used in GitHub's Storage 
+> 📦 393.1 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2023
  > 
@@ -83,18 +83,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 7 hrs 26 mins       ███████████████████████░░   93.83 % 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Markdown                 9 hrs 46 mins       ████████████████████████░   95.23 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Softbank案件               7 hrs 56 mins       █████████████████████████   100.00 % 
+Softbank案件               10 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,6 +113,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2023 19:33:36 UTC
+ Last Updated on 14/04/2023 19:33:45 UTC
 <!--END_SECTION:waka-->
  </details>
