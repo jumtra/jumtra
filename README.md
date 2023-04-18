@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 393.6 kB Used in GitHub's Storage 
+> 📦 393.8 kB Used in GitHub's Storage 
  > 
 > 🏆 14 Contributions in the Year 2023
  > 
@@ -83,19 +83,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 12 hrs 8 mins       ████████████████████████░   94.69 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-SSH Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Markdown                 12 hrs 25 mins      ████████████████████████░   94.79 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+SSH Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Softbank案件               12 hrs 49 mins      █████████████████████████   100.00 % 
+Softbank案件               13 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,6 +114,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2023 19:36:44 UTC
+ Last Updated on 18/04/2023 19:33:22 UTC
 <!--END_SECTION:waka-->
  </details>
