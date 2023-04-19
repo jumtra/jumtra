@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 393.8 kB Used in GitHub's Storage 
+> 📦 393.9 kB Used in GitHub's Storage 
  > 
 > 🏆 14 Contributions in the Year 2023
  > 
@@ -83,19 +83,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 12 hrs 25 mins      ████████████████████████░   94.79 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-SSH Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 10 hrs 36 mins      █████████████████████████   98.19 % 
+SSH Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Softbank案件               13 hrs 6 mins       █████████████████████████   100.00 % 
+Softbank案件               10 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,6 +114,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2023 19:33:22 UTC
+ Last Updated on 19/04/2023 19:33:41 UTC
 <!--END_SECTION:waka-->
  </details>
