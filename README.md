@@ -46,7 +46,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 391.3 kB Used in GitHub's Storage 
+> 📦 391.4 kB Used in GitHub's Storage 
  > 
 > 🏆 14 Contributions in the Year 2023
  > 
@@ -83,17 +83,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 55 mins       █████████████████████████   99.95 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Softbank案件               3 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -112,6 +111,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2023 19:33:35 UTC
+ Last Updated on 25/04/2023 19:33:08 UTC
 <!--END_SECTION:waka-->
  </details>
