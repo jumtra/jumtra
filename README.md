@@ -46,7 +46,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 395.8 kB Used in GitHub's Storage 
+> 📦 395.9 kB Used in GitHub's Storage 
  > 
 > 🏆 149 Contributions in the Year 2023
  > 
@@ -83,16 +83,21 @@ Sunday                   21 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     13 mins             █████████████████████░░░░   84.06 % 
+YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Makefile                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+chat_doc                 14 mins             ███████████████████████░░   93.82 % 
+agenda_maker             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,6 +116,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2023 19:33:22 UTC
+ Last Updated on 14/09/2023 19:33:56 UTC
 <!--END_SECTION:waka-->
  </details>
