@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 397.7 kB Used in GitHub's Storage 
+> 📦 397.8 kB Used in GitHub's Storage 
  > 
 > 🏆 149 Contributions in the Year 2023
  > 
@@ -83,8 +83,8 @@ Sunday                   21 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 31 mins             ██████████████████████░░░   87.23 % 
-Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Markdown                 32 mins             ██████████████████████░░░   87.76 % 
+Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 🔥 Editors: 
 VS Code                  36 mins             █████████████████████████   100.00 % 
@@ -112,6 +112,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2023 19:33:37 UTC
+ Last Updated on 27/09/2023 19:33:36 UTC
 <!--END_SECTION:waka-->
  </details>
