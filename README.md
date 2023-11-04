@@ -46,7 +46,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 397.6 kB Used in GitHub's Storage 
+> 📦 397.7 kB Used in GitHub's Storage 
  > 
 > 🏆 149 Contributions in the Year 2023
  > 
@@ -98,8 +98,8 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   27 repos            ██████████████████████░░░   90.00 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python                   26 repos            ██████████████████████░░░   86.67 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
@@ -111,6 +111,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2023 19:33:35 UTC
+ Last Updated on 04/11/2023 19:33:25 UTC
 <!--END_SECTION:waka-->
  </details>
