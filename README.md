@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 398.4 kB Used in GitHub's Storage 
+> 📦 398.6 kB Used in GitHub's Storage 
  > 
 > 🏆 149 Contributions in the Year 2023
  > 
@@ -56,46 +56,6 @@
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                93 commits          █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-🌆 Daytime                192 commits         █████████░░░░░░░░░░░░░░░░   37.28 % 
-🌃 Evening                203 commits         ██████████░░░░░░░░░░░░░░░   39.42 % 
-🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Tuesday                  87 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Wednesday                96 commits          █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Thursday                 66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Friday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Saturday                 93 commits          █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-JSON                     1 hr 37 mins        ████████████████████████░   97.54 % 
-SSH Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-
-🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          1 hr 39 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -112,6 +72,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2023 19:33:47 UTC
+ Last Updated on 30/11/2023 19:33:40 UTC
 <!--END_SECTION:waka-->
  </details>
