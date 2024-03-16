@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 401.8 kB Used in GitHub's Storage 
+> 📦 402.0 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -83,21 +83,21 @@ Sunday                   52 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   18 hrs 18 mins      █████████████████████░░░░   85.70 % 
-YAML                     2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Python                   18 hrs 36 mins      █████████████████████░░░░   85.89 % 
+YAML                     2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 Terraform                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Docker                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-geekly-llm-job-offer     21 hrs 21 mins      █████████████████████████   99.96 % 
+geekly-llm-job-offer     21 hrs 38 mins      █████████████████████████   99.96 % 
 doc_explanation          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  21 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,6 +116,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2024 19:34:32 UTC
+ Last Updated on 16/03/2024 19:33:25 UTC
 <!--END_SECTION:waka-->
  </details>
