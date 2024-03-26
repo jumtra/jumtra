@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 403.2 kB Used in GitHub's Storage 
+> 📦 403.4 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -83,20 +83,20 @@ Sunday                   52 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   18 hrs 21 mins      ████████████████████░░░░░   79.60 % 
-YAML                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-TOML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Python                   25 hrs 56 mins      ████████████████████░░░░░   79.85 % 
+YAML                     3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+TOML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Markdown                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  32 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-geekly-llm-job-offer     23 hrs 3 mins       █████████████████████████   100.00 % 
+geekly-llm-job-offer     32 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  32 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,6 +115,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2024 19:33:35 UTC
+ Last Updated on 26/03/2024 19:33:35 UTC
 <!--END_SECTION:waka-->
  </details>
