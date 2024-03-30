@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 403.9 kB Used in GitHub's Storage 
+> 📦 404.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -81,20 +81,20 @@ Sunday                   52 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   39 hrs 20 mins      ████████████████████░░░░░   80.57 % 
-YAML                     5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Python                   39 hrs 27 mins      ████████████████████░░░░░   80.62 % 
+YAML                     5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 TOML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 Markdown                 47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-VS Code                  48 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  48 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-geekly-llm-job-offer     48 hrs 49 mins      █████████████████████████   100.00 % 
+geekly-llm-job-offer     48 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  48 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  48 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,6 +113,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2024 19:33:19 UTC
+ Last Updated on 30/03/2024 19:33:24 UTC
 <!--END_SECTION:waka-->
  </details>
