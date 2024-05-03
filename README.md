@@ -46,7 +46,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 402.5 kB Used in GitHub's Storage 
+> 📦 402.7 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -83,15 +83,13 @@ Sunday                   56 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   98.24 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-music_downloader         0 secs              ██████████████████████░░░   88.72 % 
-randstad-llm-job-offer   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+music_downloader         0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  0 secs              █████████████████████████   100.00 % 
@@ -113,6 +111,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 19:33:46 UTC
+ Last Updated on 03/05/2024 19:33:50 UTC
 <!--END_SECTION:waka-->
  </details>
