@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 403.5 kB Used in GitHub's Storage 
+> 📦 403.7 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -83,16 +83,21 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 9 mins        █████████████████████████   100.00 % 
+Markdown                 3 hrs 43 mins       █████████████░░░░░░░░░░░░   53.01 % 
+Terraform                1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Makefile                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-memo                     3 hrs 9 mins        █████████████████████████   100.00 % 
+geekly-llm-job-offer     3 hrs 52 mins       ██████████████░░░░░░░░░░░   55.06 % 
+memo                     3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.94 % 
 
 💻 Operating System: 
-Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,6 +116,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2024 19:33:55 UTC
+ Last Updated on 09/05/2024 19:33:24 UTC
 <!--END_SECTION:waka-->
  </details>
