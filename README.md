@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 405.9 kB Used in GitHub's Storage 
+> 📦 406.0 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2024
  > 
@@ -115,6 +115,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2024 19:34:13 UTC
+ Last Updated on 05/08/2024 19:33:59 UTC
 <!--END_SECTION:waka-->
  </details>
