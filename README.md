@@ -46,7 +46,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 408.3 kB Used in GitHub's Storage 
+> 📦 408.5 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2024
  > 
@@ -83,17 +83,16 @@ Sunday                   56 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Terraform                0 secs              ███████████████████░░░░░░   77.68 % 
-HCL                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-aws_ec2_template         0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -113,6 +112,6 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2024 19:34:15 UTC
+ Last Updated on 07/09/2024 19:34:42 UTC
 <!--END_SECTION:waka-->
  </details>
