@@ -46,7 +46,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 411.7 kB Used in GitHub's Storage 
+> 📦 408.9 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2024
  > 
@@ -112,6 +112,6 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2024 19:35:25 UTC
+ Last Updated on 21/10/2024 19:34:53 UTC
 <!--END_SECTION:waka-->
  </details>
