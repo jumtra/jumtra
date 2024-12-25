@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 410.4 kB Used in GitHub's Storage 
+> 📦 410.6 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2024
  > 
@@ -83,20 +83,20 @@ Sunday                   58 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   12 hrs 51 mins      ███████████████████████░░   91.00 % 
-Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python                   12 hrs 47 mins      ███████████████████████░░   91.00 % 
+Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-paper-api                14 hrs 8 mins       █████████████████████████   100.00 % 
+paper-api                14 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,6 +116,6 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2024 19:34:27 UTC
+ Last Updated on 25/12/2024 19:34:34 UTC
 <!--END_SECTION:waka-->
  </details>
