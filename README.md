@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 413.6 kB Used in GitHub's Storage 
+> 📦 413.8 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -83,19 +83,20 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-HTML                     35 mins             ████████████████░░░░░░░░░   63.79 % 
-JavaScript               19 mins             █████████░░░░░░░░░░░░░░░░   35.66 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+JavaScript               1 hr 52 mins        ██████████████████████░░░   88.37 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Jumtra.github.io         42 mins             ███████████████████░░░░░░   76.58 % 
-my-react                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+my-react                 2 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,6 +116,6 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2025 19:34:49 UTC
+ Last Updated on 07/01/2025 19:34:36 UTC
 <!--END_SECTION:waka-->
  </details>
