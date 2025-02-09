@@ -46,7 +46,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 413.7 kB Used in GitHub's Storage 
+> 📦 413.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2025
  > 
@@ -83,17 +83,16 @@ Sunday                   79 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               37 mins             ███████████████████████░░   91.30 % 
-Image (svg)              3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-jumtra-blog              41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -113,6 +112,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2025 19:33:59 UTC
+ Last Updated on 09/02/2025 19:34:11 UTC
 <!--END_SECTION:waka-->
  </details>
