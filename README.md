@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 415.5 kB Used in GitHub's Storage 
+> 📦 415.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2025
  > 
@@ -83,18 +83,18 @@ Sunday                   79 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        ████████████████████████░   97.50 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+TypeScript               4 hrs 19 mins       █████████████████████████   99.17 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-jumtra-blog              1 hr 19 mins        █████████████████████████   100.00 % 
+jumtra-blog              4 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,6 +114,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2025 19:34:26 UTC
+ Last Updated on 16/03/2025 19:34:26 UTC
 <!--END_SECTION:waka-->
  </details>
