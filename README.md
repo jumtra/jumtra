@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 416.3 kB Used in GitHub's Storage 
+> 📦 416.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2025
  > 
@@ -83,19 +83,19 @@ Sunday                   79 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 20 mins       ████████████████████████░   94.29 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               3 hrs 3 mins        ███████████████████████░░   92.99 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-jumtra-blog              4 hrs 22 mins       ████████████████████████░   95.07 % 
-memo                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+jumtra-blog              3 hrs 3 mins        ███████████████████████░░   93.08 % 
+memo                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 💻 Operating System: 
-Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,6 +115,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2025 19:34:39 UTC
+ Last Updated on 22/03/2025 19:34:54 UTC
 <!--END_SECTION:waka-->
  </details>
