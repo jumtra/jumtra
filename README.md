@@ -46,13 +46,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 416.4 kB Used in GitHub's Storage 
+> 📦 415.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 36 Private Repositories 
  > 
@@ -98,11 +98,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   39 repos            ████████████████████░░░░░   78.00 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Python                   39 repos            ████████████████████░░░░░   79.59 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
@@ -112,6 +112,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2025 19:37:52 UTC
+ Last Updated on 08/08/2025 19:36:07 UTC
 <!--END_SECTION:waka-->
  </details>
