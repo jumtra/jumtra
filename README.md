@@ -40,13 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 415.6 kB Used in GitHub's Storage 
+> 📦 415.9 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2025
  > 
@@ -100,10 +100,10 @@ Windows                  26 mins             ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   39 repos            ████████████████████░░░░░   78.00 % 
+Python                   40 repos            ████████████████████░░░░░   80.00 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
@@ -114,6 +114,6 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2025 19:35:08 UTC
+ Last Updated on 11/08/2025 19:37:57 UTC
 <!--END_SECTION:waka-->
  </details>
