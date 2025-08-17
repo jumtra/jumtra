@@ -46,7 +46,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 417.2 kB Used in GitHub's Storage 
+> 📦 417.3 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2025
  > 
@@ -83,18 +83,16 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TOML                     19 mins             ███████████████████░░░░░░   74.30 % 
-Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-python-template-uchida   26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -114,6 +112,6 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 19:35:05 UTC
+ Last Updated on 17/08/2025 19:35:07 UTC
 <!--END_SECTION:waka-->
  </details>
