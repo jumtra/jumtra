@@ -40,13 +40,11 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2041%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 419.4 kB Used in GitHub's Storage 
+> 📦 419.6 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2025
  > 
@@ -56,45 +54,6 @@
  > 
 > 🔑 39 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                150 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-🌆 Daytime                279 commits         █████████░░░░░░░░░░░░░░░░   36.05 % 
-🌃 Evening                315 commits         ██████████░░░░░░░░░░░░░░░   40.70 % 
-🌙 Night                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Tuesday                  158 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Wednesday                153 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Thursday                 88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Friday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Saturday                 109 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Sunday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -112,6 +71,6 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 19:34:40 UTC
+ Last Updated on 28/09/2025 19:35:20 UTC
 <!--END_SECTION:waka-->
  </details>
