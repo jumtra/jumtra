@@ -44,7 +44,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 432.8 kB Used in GitHub's Storage 
+> 📦 433.0 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -54,45 +54,6 @@
  > 
 > 🔑 40 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                188 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-🌆 Daytime                297 commits         █████████░░░░░░░░░░░░░░░░   35.02 % 
-🌃 Evening                333 commits         ██████████░░░░░░░░░░░░░░░   39.27 % 
-🌙 Night                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Tuesday                  156 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Wednesday                165 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Thursday                 102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Sunday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -110,6 +71,6 @@ HCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 19:40:43 UTC
+ Last Updated on 03/01/2026 19:39:01 UTC
 <!--END_SECTION:waka-->
  </details>
