@@ -40,11 +40,13 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2055%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 442.3 kB Used in GitHub's Storage 
+> 📦 442.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2026
  > 
@@ -54,6 +56,45 @@
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                568 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌆 Daytime                969 commits         ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+🌃 Evening                1720 commits        ████████████░░░░░░░░░░░░░   48.88 % 
+🌙 Night                  262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Tuesday                  554 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Wednesday                513 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Thursday                 373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Friday                   1121 commits        ████████░░░░░░░░░░░░░░░░░   31.86 % 
+Saturday                 507 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Sunday                   92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -71,6 +112,6 @@ HCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 20:23:21 UTC
+ Last Updated on 24/05/2026 20:39:53 UTC
 <!--END_SECTION:waka-->
  </details>
