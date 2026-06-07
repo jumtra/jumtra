@@ -40,61 +40,20 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2055%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 446.4 kB Used in GitHub's Storage 
+> 📦 446.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 42 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                567 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-🌆 Daytime                913 commits         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-🌃 Evening                1660 commits        ████████████░░░░░░░░░░░░░   49.40 % 
-🌙 Night                  220 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Tuesday                  570 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Wednesday                497 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Thursday                 367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Friday                   984 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Saturday                 460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Sunday                   106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -112,6 +71,6 @@ HCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 20:50:16 UTC
+ Last Updated on 07/06/2026 20:54:31 UTC
 <!--END_SECTION:waka-->
  </details>
