@@ -40,13 +40,11 @@
 <details>
   <summary>Other Statics</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 470.0 kB Used in GitHub's Storage 
+> 📦 471.4 kB Used in GitHub's Storage 
  > 
 > 🏆 32 Contributions in the Year 2026
  > 
@@ -59,21 +57,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2567 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-🌆 Daytime                3259 commits        ████████░░░░░░░░░░░░░░░░░   31.47 % 
-🌃 Evening                4399 commits        ███████████░░░░░░░░░░░░░░   42.48 % 
-🌙 Night                  131 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+🌞 Morning                2530 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+🌆 Daytime                3235 commits        ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌃 Evening                4371 commits        ███████████░░░░░░░░░░░░░░   42.57 % 
+🌙 Night                  131 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   920 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Tuesday                  1394 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Wednesday                3256 commits        ████████░░░░░░░░░░░░░░░░░   31.44 % 
-Thursday                 2657 commits        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-Friday                   873 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Saturday                 233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Sunday                   1023 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Monday                   900 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Tuesday                  1390 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Wednesday                3249 commits        ████████░░░░░░░░░░░░░░░░░   31.65 % 
+Thursday                 2639 commits        ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Friday                   873 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Saturday                 230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Sunday                   986 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 ```
 
 
@@ -118,6 +116,6 @@ HCL                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jumtra/jumtra/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:58:15 UTC
+ Last Updated on 28/07/2026 20:49:06 UTC
 <!--END_SECTION:waka-->
  </details>
